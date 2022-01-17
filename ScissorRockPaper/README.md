@@ -1,0 +1,1 @@
+This program plays the popular scissor-rock-paper game. It generates a random integer representing scissor, paper or rock, takes as input an integer representing Scissor, paper or rock and displays result whether the user wins, loses, or draws with the computer
